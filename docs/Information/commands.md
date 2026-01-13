@@ -2,105 +2,116 @@
 sidebar_position: 3
 ---
 
-# ✏️Commandes
+# ✏️ Commandes
 
-Voici la liste complète des commandes disponibles sur le serveur Valane. Ces commandes sont essentielles pour interagir efficacement avec les fonctionnalités du serveur et améliorer votre expérience de jeu.
-
----
-
-## Commandes Générales 🛠️
-- **/regles** : Ouvre le lien vers le règlement.
-- **/menu** : Ouvre le menu principal du serveur.
-- **/boutique** : Ouvre le menu boutique du serveur.
-- **/buy** : Ouvre le menu achat de gems.
-- **/skill** : Ouvre le menu compétences et salaires.
-- **/skill top** : Ouvre le menu des classements des compétences.
-- **/liens** : Affiche les liens vers nos sites.
-- **/niveau** : Permet de voir vos statistiques.
-- **/ec** : Ouvre votre enderchest.
-- **/quete** : Ouvre le menu des quêtes.
-- **/profil** : Ouvre le menu profil et options.
-- **/kit** : Ouvre le menu des kits.
-- **/seen \<pseudo\>** : Permet de voir la dernière connexion d’un joueur.
-- **/stats** : Permet de voir vos statistiques.
-- **/time \<pseudo\>** : Permet de voir le temps de jeu et la première connexion d'un joueur.
+Bienvenue dans la liste officielle des commandes disponibles sur le serveur **Valane**.  
+Elles sont organisées par catégories pour une lecture claire et rapide.
 
 ---
 
-## Commandes Économie 💰
-- **/baltop** : Top des joueurs les plus riches.
-- **/pay &lt;pseudo&gt;** : Envoyer de l'argent à un joueur.
-- **/money &lt;pseudo&gt;** : Permet de voir l'argent d'un joueur.
-- **/salaire** : Ouvre la liste des salaires.
-- **/trade &lt;pseudo&gt;** : Permet de faire un échange sécurisé.
-- **/shop** : Ouvrir le shop admin
-- **/ah** : Ouvrir l'hôtel des ventes.
-- **/ah sell &lt;prix&gt; &lt;nombre&gt;** : Vendre des items.
-- **/ah search &lt;joueur&gt;** : Voir les ventes d'un joueur.
+# 🛠️ Commandes Générales
+
+- **/regles** — Ouvre le lien vers le règlement.
+- **/menu** — Ouvre le menu principal du serveur.
+- **/boutique** — Ouvre le menu boutique.
+- **/buy** — Ouvre le menu d’achat de gems.
+- **/skill** — Ouvre le menu compétences et salaires.
+- **/skill top** — Affiche le classement des compétences.
+- **/liens** — Affiche les liens vers nos sites.
+- **/niveau** — Affiche vos statistiques.
+- **/ec** — Ouvre votre enderchest.
+- **/quete** — Ouvre le menu des quêtes.
+- **/profil** — Ouvre le menu profil et options.
+- **/kit** — Ouvre le menu des kits.
+- **/seen <pseudo>** — Affiche la dernière connexion d’un joueur.
+- **/stats** — Affiche vos statistiques.
+- **/time <pseudo>** — Affiche le temps de jeu et la première connexion d’un joueur.
 
 ---
 
-## Commandes Mobcoins 🪙
-- **/mobcoin** : Affiche le menu des mobcoins.
-- **/mobcoin help** : Affiche l'aide des mobcoins.
-- **/mobcoin pay \<pseudo\> \<montant\>** : Envoyer des mobcoins à un joueur.
-- **/mobcoin balance \[pseudo\]** : Voir votre solde de mobcoins.
-- **/mobcoin top** : Voir le top des joueurs avec le plus de mobcoins.
-- **/mobcoin withdraw \<montant\>** : Retirer des mobcoins de votre solde.
-- **/mobcoin notification** : Affiche les notifications des mobcoins.
+# 💰 Commandes Économie
+
+- **/baltop** — Classement des joueurs les plus riches.
+- **/pay <pseudo>** — Envoyer de l’argent à un joueur.
+- **/money <pseudo>** — Voir l’argent d’un joueur.
+- **/salaire** — Ouvre la liste des salaires.
+- **/trade <pseudo>** — Échange sécurisé entre joueurs.
+- **/shop** — Ouvre le shop admin.
+- **/ah** — Ouvre l’hôtel des ventes.
+- **/ah sell <prix> <nombre>** — Mettre un item en vente.
+- **/ah search <joueur>** — Voir les ventes d’un joueur.
 
 ---
 
-## Commandes Téléportation 🌍
-- **/back** : Vous téléporte à votre dernière position.
-- **/dback** : Vous téléporte à votre dernière position de mort.
-- **/home &lt;nom&gt;** : Permet de voir vos homes et vous téléporter.
-- **/sethome &lt;nom&gt;** : Permet de créer un home.
-- **/delhome &lt;nom&gt;** : Permet de supprimer un home.
-- **/warp** : Ouvre le menu des warps.
-- **/setwarp** : Permet de créer votre warp.
-- **/delwarp** : Permet de supprimer votre warp.
-- **/pvp** : Vous téléporte vers l'arène PvP.
-- **/ender** : Vous téléporte vers le monde End.
-- **/casino**: Vous téléporte au casino.
-- **/crates**: Vous téléporte aux caisses.
-- **/tpa &lt;pseudo&gt;** : Téléporte vers un joueur avec son accord.
-- **/tpahere &lt;pseudo&gt;** : Téléporte un joueur à vous avec son accord.
-- **/tpyes** : Permet d'accepter une demande de téléportation.
-- **/tpno** : Permet de refuser une demande de téléportation.
-- **/hub** : Retour au hub.
+# 🪙 Commandes Mobcoins
+
+- **/mobcoin** — Ouvre le menu des mobcoins.
+- **/mobcoin help** — Affiche l’aide des mobcoins.
+- **/mobcoin pay <pseudo> <montant>** — Envoyer des mobcoins.
+- **/mobcoin balance [pseudo]** — Voir votre solde ou celui d’un joueur.
+- **/mobcoin top** — Classement des joueurs en mobcoins.
+- **/mobcoin withdraw <montant>** — Retirer des mobcoins.
+- **/mobcoin notification** — Gérer les notifications.
 
 ---
 
-## Commandes d'Interactions et Chat 🗣️
-- **/sit** : S'asseoir sur un bloc.
-- **/crawl** : Ramper sur le sol.
-- **/lay** : S'allonger sur le sol.
-- **/spin** : Tourner en rond.
-- **#inv** : Affiche ton inventaire.
-- **#item** : Affiche l'objet dans ta main.
-- **#ec** : Affiche ton enderchest.
-- **#pos** : Affiche ta position.
-- **#bal** : Affiche ton argent.
-- **#skill** : Affiche tes compétences.
+# 🌍 Commandes de Téléportation
+
+- **/back** — Retour à votre dernière position.
+- **/dback** — Retour à votre position de mort.
+- **/home <nom>** — Voir vos homes et s’y téléporter.
+- **/sethome <nom>** — Créer un home.
+- **/delhome <nom>** — Supprimer un home.
+- **/warp** — Ouvre le menu des warps.
+- **/setwarp** — Créer un warp.
+- **/delwarp** — Supprimer un warp.
+- **/pvp** — Téléportation vers l’arène PvP.
+- **/ender** — Téléportation vers le monde End.
+- **/casino** — Téléportation au casino.
+- **/crates** — Téléportation aux caisses.
+- **/tpa <pseudo>** — Demande de téléportation.
+- **/tpahere <pseudo>** — Demande pour téléporter un joueur à vous.
+- **/tpyes** — Accepter une demande.
+- **/tpno** — Refuser une demande.
+- **/hub** — Retour au hub.
 
 ---
 
-## Commandes d'île 🏝️
-- **/ob** : Vous téléporte à votre île.
-- **/ob bank** : Ouvre la liste des commandes de banque de l'île.
-- **/ob team** : Ouvre la liste des commandes de team de l'île.
-- **/ob phases** : Ouvre le menu des phases de l'île.
-- **/ob info** : Ouvre les informations sur votre île.
-- **/ob sethome** : Modifie le point de spawn de votre île.
-- **/ob level** : Calcule le niveau de votre île.
-- **/ob top** : Affiche le classement des meilleures îles.
-- **/ob settings** : Ouvre le menu des flags de l'île.
-- **/ob value** : Montre les blocs qui influencent le niveau de votre île.
-- **/ob ban \<joueur\>** : Banni un joueur de votre île.
-- **/ob unban \<joueur\>** : Débanni un joueur de votre île.
-- **/ob expel \<joueur\>** : Expulse un joueur de votre île.
-- **/ob banlist** : Voir la liste des joueurs bannis de votre île.
-- **/ob setname \<nom\>** : Change le nom de votre île.
-- **/ob chat \[message\]** : Envoie un message à tous les joueurs sur votre île.
-- **/ob tc \[message\]** : Envoie un message à tous les joueurs de votre team.
+# 🗣️ Commandes d’Interactions & Chat
+
+- **/sit** — S’asseoir.
+- **/crawl** — Ramper.
+- **/lay** — S’allonger.
+- **/spin** — Tourner sur soi-même.
+
+### 🔎 Commandes rapides (#)
+- **#inv** — Affiche votre inventaire.
+- **#item** — Affiche l’objet dans votre main.
+- **#ec** — Affiche votre enderchest.
+- **#pos** — Affiche votre position.
+- **#bal** — Affiche votre argent.
+- **#skill**— Affiche vos compétences.
+- **#sk**— Affiche vos compétences.
+
+---
+
+# 🏝️ Commandes d’Île (OneBlock)
+
+- **/ob** — Téléportation à votre île.
+- **/ob bank** — Commandes de banque de l’île.
+- **/ob team** — Commandes de gestion d’équipe.
+- **/ob phases** — Menu des phases.
+- **/ob info** — Informations de votre île.
+- **/ob sethome** — Modifier le point de spawn de l’île.
+- **/ob level** — Calculer le niveau de l’île.
+- **/ob top** — Classement des meilleures îles.
+- **/ob settings** — Menu des flags.
+- **/ob value** — Blocs influençant le niveau.
+- **/ob ban <joueur>** — Bannir un joueur de l’île.
+- **/ob unban <joueur>** — Débannir un joueur.
+- **/ob expel <joueur>** — Expulser un joueur.
+- **/ob banlist** — Voir les joueurs bannis.
+- **/ob setname <nom>** — Renommer votre île.
+- **/ob chat [message]** — Message à tous les membres de l’île.
+- **/ob tc [message]** — Message à votre team.
+
